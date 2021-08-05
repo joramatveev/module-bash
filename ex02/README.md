@@ -1,5 +1,9 @@
 # Second Bash Exercise
 
+```
+chmod 0744 ex02.sh
+```
+
 Write a script that
 
 
